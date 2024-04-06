@@ -1,2 +1,2 @@
-# dsa_90D
-90  days of data structure with python
+# 50 pattern questions with python
+
