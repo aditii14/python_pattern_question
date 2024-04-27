@@ -1,2 +1,2 @@
-# 50 pattern questions with python
+#  pattern questions with python
 
